@@ -4,7 +4,7 @@
 ### 𝘐  𝘩𝘢𝘷𝘦 4+ 𝘺𝘦𝘢𝘳 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘍𝘢𝘴𝘤𝘪𝘯𝘢𝘵𝘦𝘥 𝘵𝘰𝘸𝘢𝘳𝘥𝘴 𝘋𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘤𝘦, 𝘈𝘐 𝘢𝘯𝘥 𝘔𝘓 ❤️
 
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
-- 🔭 I’m currently working on - Software Developer from Freelancer 🤓
+- :man_technologist: I’m currently working on - Software Developer from Freelancer :computer:
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
 - 🤔 I’m looking for Intern or Intern + JOB Role 😄
@@ -47,18 +47,21 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Transformers-informational?style=flat&logo=Transformers&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-HuggingFace-informational?style=flat&logo=HuggingFace&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 
