@@ -7,7 +7,7 @@
 - :man_technologist: I’m currently working on - Software Developer from Freelancer :computer:
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 🤔 I’m looking for Intern or Intern + JOB Role 😄
+- 🤔 I’m looking for JOB Role 😄
 - 💬 Ask me about - Anything 🤫
 - ⚡ Fun fact: I love Cheese Dhosa 🥘 and Calistheics 🏃
 
