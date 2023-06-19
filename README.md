@@ -19,6 +19,7 @@
 [<img align="left" alt="Sahaj Godhani | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Sahaj Godhani | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 [<img align="left" alt="Sahaj Godhani | Internet" width="40px" src="https://img.icons8.com/fluent/48/000000/internet.png" />][Internet]
+[<img align="left" alt="Sahaj Godhani | Medium" width="40px" src="https://img.icons8.com/fluent/48/000000/medium.png](https://img.icons8.com/sf-regular-filled/48/medium-logo.png" alt="medium-logo)" />][Medium]
 
 
 
@@ -79,4 +80,5 @@
 <!--🌟 From [Sahaj Godhani](https://github.com/Sahaj777/)-->
 [linkedin]: https://www.linkedin.com/in/sahaj-godhani-gs777/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sahajgodhani777@gmail.com.com&su=SUBJECT&body=BODY&tf=1
-[Internet]: https://www.sahajgodhani.com/
+[Internet]: https://www.sahajgodhani.in/
+[Medium]: https://medium.com/@sahajgodhani777
