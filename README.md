@@ -1,15 +1,18 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sahaj Godhani! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### 𝘐  𝘩𝘢𝘷𝘦 4+ 𝘺𝘦𝘢𝘳 𝘰𝘯 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘍𝘢𝘴𝘤𝘪𝘯𝘢𝘵𝘦𝘥 𝘵𝘰𝘸𝘢𝘳𝘥𝘴 𝘋𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘤𝘦, 𝘈𝘐 𝘢𝘯𝘥 𝘔𝘓 ❤️
+![](https://komarev.com/ghpvc/?username=Sahaj777&color=green)
+[![Website](https://img.shields.io/website?label=SahajGodhani&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.sahajgodhani.in/)
+
+  ## I'm a Author, Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajgodhani777/)
 
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
 - :man_technologist: I’m currently working on - Software Developer from Freelancer :computer:
 - 🌱 I’m currently learning - Object Detection using TF2 🤡
 - 👯 I’m looking to collaborate on - DL, ML, Research Papers, NLP
-- 🤔 I’m looking for JOB Role 😄
+- 🤔 I’m looking for a JOB Role 😄
 - 💬 Ask me about - Anything 🤫
-- ⚡ Fun fact: I love Cheese Dhosa 🥘 and Calistheics 🏃
+- ⚡ Fun fact: I love Cheese Dhosa 🥘 and Calisthenics 🏃
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
