@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Sahaj777&color=green)
 [![Website](https://img.shields.io/website?label=SahajGodhani&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.sahajgodhani.in/)
 
-  ## I'm a Author, Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajgodhani777/)
+  ## I'm an Author, Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajgodhani777/)
 
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
 - :man_technologist: I’m currently working on - Software Developer from Freelancer :computer:
@@ -23,6 +23,7 @@
 [<img align="left" alt="Sahaj Godhani | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 [<img align="left" alt="Sahaj Godhani | Internet" width="40px" src="https://img.icons8.com/fluent/48/000000/internet.png" />][Internet]
 [<img align="left" alt="Sahaj Godhani | Medium" width="40px" src="https://img.icons8.com/fluent/48/000000/medium.png](https://img.icons8.com/sf-regular-filled/48/medium-logo.png" alt="medium-logo)" />][Medium]
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5VGA29)
 
 
 
