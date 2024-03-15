@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Sahaj777&color=green)
 [![Website](https://img.shields.io/website?label=SahajGodhani&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.sahajgodhani.in/)
 
-  ## I'm an Author, Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajgodhani777/)
+  ## I'm an Author, Full Stack Developer with Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajgodhani777/)
 
 - 🔭 I’m currently working on - Topic Modelling using Transformers 🤓
 - :man_technologist: I’m currently working on - Software Developer from Freelancer :computer:
