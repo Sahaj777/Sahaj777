@@ -79,7 +79,7 @@
 
 
 <!--🌟 From [Sahaj Godhani](https://github.com/Sahaj777/)-->
-[linkedin]: https://www.linkedin.com/in/sahaj-godhani-gs777/
+[linkedin]: https://www.linkedin.com/in/sahajgodhani777/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sahajgodhani777@gmail.com.com&su=SUBJECT&body=BODY&tf=1
 [Internet]: https://www.sahajgodhani.in/
 [Medium]: https://medium.com/@sahajgodhani777
